@@ -1,0 +1,41 @@
+commit f0398b1bcba33e0fd8cb43dcd02f1e7967776c3e
+Author: pingliu66 <pingliu006@gmail.com>
+Date:   Sun Sep 29 12:28:39 2019 -0400
+
+    readme.txt added
+
+commit d4a5f03808d7cbb2d180dcc5c8c8a7f13df7b4cc
+Author: pingliu66 <pingliu006@gmail.com>
+Date:   Mon Sep 23 11:13:59 2019 -0400
+
+    added gitignore
+
+commit 3d80a7640a6bd3d453938c0b878dc93a93ace316
+Author: pingliu66 <pingliu006@gmail.com>
+Date:   Mon Sep 23 11:09:47 2019 -0400
+
+    added another line to readme.txt
+
+commit cbf9f3bece31146c1d79fdfbac02110656d0a097
+Author: pingliu66 <pingliu006@gmail.com>
+Date:   Sun Sep 22 10:04:58 2019 -0400
+
+    added n1.txt again
+
+commit 1ebcfcff0001f3941fd458964ceb7d3a0c493df9
+Author: pingliu66 <pingliu006@gmail.com>
+Date:   Sun Sep 22 09:59:46 2019 -0400
+
+    added new file
+
+commit 0b9f7a14e8fb6082d67fb526463013ededa05349
+Author: pingliu66 <pingliu006@gmail.com>
+Date:   Sun Sep 22 09:49:26 2019 -0400
+
+    added two files
+
+commit 8f5ce1c7c54398f36dd509551b7975ac22e8612a
+Author: pingliu66 <pingliu006@gmail.com>
+Date:   Sun Sep 22 09:32:46 2019 -0400
+
+    added readme.txt
